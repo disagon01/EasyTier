@@ -241,7 +241,7 @@ listeners = [
 exit_nodes = []
 
 [[peer]]
-uri = "tcp://public.easytier.top:11010"
+uri = "tcp://nas.iinx.cn:11010"
 
 [network_identity]
 network_name = "default"
